@@ -1092,7 +1092,7 @@ footer .post-list li em {
     position: relative
 }
 .navbar-brand {
-    background: #549dc5;
+    background: white;
     height: auto;
     padding: 20px 30px;
     position: absolute;
@@ -1103,7 +1103,7 @@ footer .post-list li em {
     box-shadow: 3px 3px 0 rgba(0,0,0,0.11);
 }
 .navbar-brand:hover {
-    background: #468eb5
+    background: white;
 }
 .navbar-brand img {
     -webkit-transition: all 0.3s;

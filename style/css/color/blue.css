@@ -27,10 +27,10 @@ blockquote {
     background: #468eb5;
 }
 .navbar-brand {
-    background: #549dc5;
+    background: white;
 }
 .navbar-brand:hover {
-    background: #468eb5
+    background: white;
 }
 .nav > li > a:hover {
     color: #549dc5;
